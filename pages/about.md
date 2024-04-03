@@ -10,11 +10,13 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Repository;Acknowledgements" %}
 
-## About the Collection
+## About the Repsitory
 
 Hello wazup!!
 
-Welcome to Chelle's Family Memories, to look back the 
-{% include cb/about_the_about.md %} 
+Welcome to cherished Chelle's Family Memories! to look back the unforgetable moments with love, laughter, and togetherness that define our family's journey through life.  
+
+## Acknowlwdgement
+Welcome to my Chelle's Family Memories collection! These snapshots capture the moments of joy, love, and togetherness that define our family. We extend our heartfelt gratitude to the following individuals whose presence and contributions have enriched our lives and made these memories possible.
